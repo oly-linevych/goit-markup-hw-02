@@ -1,0 +1,128 @@
+.logo-web {color:#2196F3; font-family: "Raleway"; font-size: 26px;
+    line-height: 1.19;}
+.logo-studio {
+    color: #000000; font-family: "Raleway"; font-size: 26px;
+        line-height: 1.19; }
+
+
+
+.items .item {color:#212121; font-family: "Roboto"; font-weight: 500; line-height: 0.94; position: absolute; }
+.items .item:hover {color: #F5F5F5; background-color: #2196F3; }
+.items .item:focus {
+    color: #F5F5F5;
+        background-color: #2196F3; }
+
+               .adress-header .adress-item {color: #757575;
+                    font-family: "Roboto";
+                    font-weight: 500;
+                    line-height: 0.94;
+                    position: absolute;
+                }
+                           
+                .adress-header .adress-item:hover {
+              color: #2196F3; }
+               .adress-header .adress-item:focus {
+              color: #2196F3;
+                                                                }
+
+body {
+    color: #212121;
+    font-family: "Roboto";
+    sans-serif;}
+.slogan {color: #FFFFFF; background-color: #2F303A; font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase; }
+        .item-text {
+            color: #F5F4FA;
+            background-color: #2196F3;
+            cursor: pointer;
+        }
+                .item-text:hover {
+                    color: #2196F3;
+                    background-color: #FFFFFF;
+                }
+        
+                .item-text:focus {
+                    color: #2196F3;
+                        background-color: #FFFFFF;}
+.caption {color: #212121; 
+    
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;}
+.text {color: #757575; font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+
+    letter-spacing: 0.03em;}
+
+.subtitle {color: #212121; font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;}
+
+.submite-text {color: #212121;font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;}
+
+ .headline {color: #212121; font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+   
+    letter-spacing: 0.03em;}
+ .headline-text {color: #757575; font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+  
+    letter-spacing: 0.03em;}
+
+    button {font-family: inherit;}
+
+.item {
+        color: #212121;
+        background-color: #F5F4FA;
+        cursor: pointer;
+       
+        font-weight: 500;
+            font-size: 16px;
+            line-height: 1.62;
+      
+            letter-spacing: 0.03em;
+    }
+
+    .item:hover {
+        color: #FFFFFF;
+        background-color: #2196F3;
+    }
+
+    .item:focus {
+        color: #FFFFFF;
+        background-color: #2196F3;
+    }
+.filter .filter-item { color: #212121; background-color: #F5F4FA; cursor: pointer;}
+
+ .filter .filter-item:hover {color: #FFFFFF; background-color: #2196F3;
+}
+.filter .filter-item:focus {
+    color: #FFFFFF; background-color: #2196F3;
+}
+.info .info-title {color: #212121; font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+
+    letter-spacing: 0.06em;}
+.info .info-text {color: #757575; font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+   
+    letter-spacing: 0.03em;}
+
+      
